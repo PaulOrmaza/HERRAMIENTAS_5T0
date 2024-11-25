@@ -1,3 +1,5 @@
 PAUL : HOLA ¡¡
 
 RICHELY: PREGUNTA 1
+
+Richely: git clone
