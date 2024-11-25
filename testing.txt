@@ -1,5 +1,9 @@
 PAUL : HOLA ¡¡
 
 RICHELY: PREGUNTA 1
+<<<<<<< HEAD
 
 Richely: git clone
+=======
+PAUL: VERDADERO
+>>>>>>> ef3d22e2c638cad17658945705c0ac61c10402d1
