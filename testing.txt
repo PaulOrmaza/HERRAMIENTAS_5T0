@@ -20,3 +20,5 @@ RICHELY:¿Cómo se actualiza la rama local con los últimos cambios del reposito
 
 PAUL:git pull origin <nombre_rama>
 
+RICHELY: ¿Cómo se elimina una rama local en Git?
+
