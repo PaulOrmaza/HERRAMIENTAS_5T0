@@ -16,4 +16,7 @@ RICHELY:¿Cómo se agrega un archivo específico al área de preparación?
 
 PAUL: git add <nombre_archivo>
 
+RICHELY:¿Cómo se actualiza la rama local con los últimos cambios del repositorio remoto?
+
+
 
