@@ -22,3 +22,5 @@ PAUL:git pull origin <nombre_rama>
 
 RICHELY: ¿Cómo se elimina una rama local en Git?
 
+PAUL:git branch -d <nombre_rama>
+
