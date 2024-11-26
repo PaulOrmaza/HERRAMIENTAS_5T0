@@ -11,3 +11,5 @@ PAUL: VERDADERO
 RICHELY: COMANDO PARA VER LAS RAMAS DEL REPOSITORIO
 
 PAUL: git branch
+
+RICHELY:¿Cómo se agrega un archivo específico al área de preparación?
